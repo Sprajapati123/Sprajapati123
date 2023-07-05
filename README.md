@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sandis Prajapati</h1>
 <h3 align="center">A passionate Mobile application developer from Nepal</h3>
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sandis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sandis" height="30" width="40" /></a>
+<a href="https://dev.to/sprajapati123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sprajapati123" height="30" width="40" /></a>
 <a href="https://twitter.com/@sandisprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sandisprajapati" height="30" width="40" /></a>
 </p>
 
